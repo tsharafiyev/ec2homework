@@ -15,8 +15,8 @@
     "Mappings": {
         "SubnetMap": {
             "us-east-1": {
-                "PublicSubnet": "subnet-0a14e6a70d4e4ec29",
-                "PrivateSubnet": "subnet-00f3d5974d8880c5d",
+                "PublicSubnet": "subnet-03f06428fa30a3542",
+                "PrivateSubnet": "subnet-03f06428fa30a3542",
                 "LinuxImg": "ami-0c94855ba95c71c99"
             }
         }
